@@ -2,6 +2,13 @@
   "version": "v2",
   "content": [
     {
+      "title": "Thun888's Blog",
+      "url": "https://blog.hzchu.top/",
+      "avatar": "https://blog.hzchu.top/img/avatar.webp",
+      "screenshot": "https://onep.hzchu.top/mount/pic/blog-hzchu-top.png",
+      "description": "夏日当空,心如深渊"
+    },
+    {
       "title": "星日语",
       "url": "https://weekdaycare.cn",
       "avatar": "https://weekdaycare.cn/asset/avatar.svg",
