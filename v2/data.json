@@ -2,19 +2,20 @@
   "version": "v2",
   "content": [
     {
+      "title": "Thun888's Blog",
+      "url": "https://blog.hzchu.top/",
+      "avatar": "https://blog.hzchu.top/img/avatar.webp",
+      "screenshot": "https://onep.hzchu.top/mount/pic/blog-hzchu-top.png",
+      "description": "夏日当空,心如深渊",
+      "note": "超级厉害的大佬！每次的分享都恰到好处地击中我对生产力（不是）的进一步探索"
+    },
+    {
       "title": "宇宙尽头的餐馆",
       "url": "https://flyalready.cn/",
       "avatar": "https://flyalready.cn/asset/images/avatar.jpg",
       "screenshot": "https://flyalready.cn/asset/images/screenshot.png",
       "description": "自你离开，我辗转难眠",
       "note": "测试一下备注信息"
-    },
-    {
-      "title": "Thun888's Blog",
-      "url": "https://blog.hzchu.top/",
-      "avatar": "https://blog.hzchu.top/img/avatar.webp",
-      "screenshot": "https://onep.hzchu.top/mount/pic/blog-hzchu-top.png",
-      "description": "夏日当空,心如深渊"
     },
     {
       "title": "星日语",
