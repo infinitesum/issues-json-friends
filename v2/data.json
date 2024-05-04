@@ -2,6 +2,14 @@
   "version": "v2",
   "content": [
     {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://weekdaycare.cn/asset/avatar.svg",
+      "screenshot": "",
+      "description": "星语日点灯",
+      "note": "建站过程语佬帮大忙了！（激动）写代码好厉害人也好好，感觉语佬就，很酷！"
+    },
+    {
       "title": "Thun888's Blog",
       "url": "https://blog.hzchu.top/",
       "avatar": "https://blog.hzchu.top/img/avatar.webp",
@@ -16,13 +24,6 @@
       "screenshot": "https://flyalready.cn/asset/images/screenshot.png",
       "description": "自你离开，我辗转难眠",
       "note": "测试一下备注信息"
-    },
-    {
-      "title": "星日语",
-      "url": "https://weekdaycare.cn",
-      "avatar": "https://weekdaycare.cn/asset/avatar.svg",
-      "screenshot": "",
-      "description": "星语日点灯"
     }
   ]
 }
