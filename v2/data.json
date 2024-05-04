@@ -2,20 +2,20 @@
   "version": "v2",
   "content": [
     {
+      "title": "Thun888's Blog",
+      "url": "https://blog.hzchu.top/",
+      "avatar": "https://blog.hzchu.top/img/avatar.webp",
+      "screenshot": "https://onep.hzchu.top/mount/pic/blog-hzchu-top.png",
+      "description": "夏日当空,心如深渊",
+      "note": "超级厉害的大佬！很多工具安利> <"
+    },
+    {
       "title": "星日语",
       "url": "https://weekdaycare.cn",
       "avatar": "https://weekdaycare.cn/asset/avatar.svg",
       "screenshot": "",
       "description": "星语日点灯",
       "note": "建站过程语佬贡献了很多 insight！（激动）写代码好厉害人也好好"
-    },
-    {
-      "title": "Thun888's Blog",
-      "url": "https://blog.hzchu.top/",
-      "avatar": "https://blog.hzchu.top/img/avatar.webp",
-      "screenshot": "https://onep.hzchu.top/mount/pic/blog-hzchu-top.png",
-      "description": "夏日当空,心如深渊",
-      "note": "超级厉害的大佬！每次的分享都恰到好处地击中我对生产力（不是）的进一步探索"
     }
   ]
 }
