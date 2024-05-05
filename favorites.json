@@ -2,7 +2,7 @@
   {
     "title": "ChrAlpha 的幻想乡",
     "url": "https://blog.ichr.me",
-    "icon": "https://cdn.jsdelivr.net/npm/ckx@0.0.1/favicon/safari-pinned-tab.svg",
+    "avatar": "https://cdn.jsdelivr.net/npm/ckx@0.0.1/favicon/safari-pinned-tab.svg",
     "cover": "https://bu.dusays.com/2021/01/30/eefea79c845d3.png",
     "description": "不硬核瞎折腾",
     "note": ""
@@ -18,14 +18,14 @@
   {
     "title": "荷戟独彷徨",
     "url": "https://guanqr.com/",
-    "icon": "https://cdn.jsdelivr.net/gh/guanqr/blog/static/icons/android-chrome-512x512.png",
+    "avatar": "https://cdn.jsdelivr.net/gh/guanqr/blog/static/icons/android-chrome-512x512.png",
     "description": "爱光学，爱生活，爱创造",
     "note": ""
   },
   {
     "title": "Sheng Dong",
     "url": "https://dong2000.xyz/",
-    "icon": "https://dong2000.xyz/wombo.png",
+    "avatar": "https://dong2000.xyz/wombo.png",
     "cover": "https://p.ipic.vip/fksl6b.png",
     "description": "Blog of a PhD student, utilitarian, scientism-ist.",
     "note": "分享科研生活的友邻"
@@ -46,7 +46,7 @@
   {
     "title": "谢谢所有的鱼",
     "url": "https://gregueria.icu/",
-    "icon": "https://gregueria.icu/avatar.png",
+    "avatar": "https://gregueria.icu/avatar.png",
     "description": "Pick the right battlefield, then fight.",
     "note": "我超级爱看！小鱼的博文总给我勇敢面对生活的力量🥺"
   },
