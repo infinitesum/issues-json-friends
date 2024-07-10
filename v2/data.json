@@ -2,6 +2,13 @@
   "version": "v2",
   "content": [
     {
+      "title": "Harry Chen's Blog",
+      "url": "https://harrychen.xyz",
+      "avatar": "https://harrychen.xyz/assets/static/img/avatar.jpg",
+      "screenshot": "",
+      "description": "随缘更新"
+    },
+    {
       "title": "Thun888's Blog",
       "url": "https://blog.hzchu.top/",
       "avatar": "https://blog.hzchu.top/img/avatar.webp",
