@@ -2,20 +2,20 @@
   "version": "v2",
   "content": [
     {
+      "title": "Thun888's Blog",
+      "url": "https://blog.hzchu.top/",
+      "avatar": "https://blog.hzchu.top/img/avatar.webp",
+      "screenshot": "https://onep.hzchu.top/mount/pic/blog-hzchu-top.png",
+      "description": "夏日当空,心如深渊",
+      "note": "在佬这里cv了不少文具（是遥遥领先的 Thun！"
+    },
+    {
       "title": "Harry Chen's Blog",
       "url": "https://harrychen.xyz",
       "avatar": "https://harrychen.xyz/assets/static/img/avatar.jpg",
       "screenshot": "",
       "description": "随缘更新",
       "note": "沉静而幽默的书写！很爱看他的生活分享，感觉 Harry 就，很酷！"
-    },
-    {
-      "title": "Thun888's Blog",
-      "url": "https://blog.hzchu.top/",
-      "avatar": "https://blog.hzchu.top/img/avatar.webp",
-      "screenshot": "https://onep.hzchu.top/mount/pic/blog-hzchu-top.png",
-      "description": "夏日当空,心如深渊",
-      "note": "超级厉害的大佬！很多工具安利> <"
     },
     {
       "title": "星日语",
