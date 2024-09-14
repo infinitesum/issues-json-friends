@@ -2,6 +2,14 @@
   "version": "v2",
   "content": [
     {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://weekdaycare.cn/asset/avatar.svg",
+      "screenshot": "",
+      "description": "星语日点灯",
+      "note": "是我的建站首席顾问语佬！（激动）他的博客超级好看！"
+    },
+    {
       "title": "Thun888's Blog",
       "url": "https://blog.hzchu.top/",
       "avatar": "https://blog.hzchu.top/img/avatar.webp",
@@ -16,14 +24,6 @@
       "screenshot": "",
       "description": "随缘更新",
       "note": "沉静而幽默的书写！很爱看他的生活分享，感觉 Harry 就，很酷！"
-    },
-    {
-      "title": "星日语",
-      "url": "https://weekdaycare.cn",
-      "avatar": "https://weekdaycare.cn/asset/avatar.svg",
-      "screenshot": "",
-      "description": "星语日点灯",
-      "note": "建站过程语佬贡献了很多 insight！（激动）写代码好厉害人也好好"
     }
   ]
 }
