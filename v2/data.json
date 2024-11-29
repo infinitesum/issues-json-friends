@@ -2,14 +2,6 @@
   "version": "v2",
   "content": [
     {
-      "title": "宇宙尽头的餐馆",
-      "url": "https://flyalready.cn/",
-      "avatar": "https://flyalready.cn/asset/images/avatar.jpg",
-      "screenshot": "https://flyalready.cn/asset/images/screenshot.png",
-      "description": "自你离开，我辗转难眠",
-      "note": "测试一下备注信息"
-    },
-    {
       "title": "Thun888's Blog",
       "url": "https://blog.hzchu.top/",
       "avatar": "https://blog.hzchu.top/img/avatar.webp",
