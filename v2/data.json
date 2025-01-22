@@ -2,6 +2,14 @@
   "version": "v2",
   "content": [
     {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://weekdaycare.cn/asset/avatar.svg",
+      "screenshot": "",
+      "description": "星语日点灯",
+      "note": "是我的建站首席顾问语佬，感谢他。他的博客超级好看，书写着他的经验与生活。"
+    },
+    {
       "title": "Harry Chen's Blog",
       "url": "https://harrychen.xyz",
       "avatar": "https://harrychen.xyz/assets/static/img/avatar.jpg",
@@ -24,14 +32,6 @@
       "screenshot": "https://onep.hzchu.top/mount/pic/blog-hzchu-top.png",
       "description": "夏日当空,心如深渊",
       "note": "在佬这里 cv 了不少文具（是遥遥领先的 Thun！）"
-    },
-    {
-      "title": "星日语",
-      "url": "https://weekdaycare.cn",
-      "avatar": "https://weekdaycare.cn/asset/avatar.svg",
-      "screenshot": "",
-      "description": "星语日点灯",
-      "note": "是我的建站首席顾问语佬！（激动）他的博客超级好看！"
     }
   ]
 }
