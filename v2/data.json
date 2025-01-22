@@ -2,6 +2,14 @@
   "version": "v2",
   "content": [
     {
+      "title": "Harry Chen's Blog",
+      "url": "https://harrychen.xyz",
+      "avatar": "https://harrychen.xyz/assets/static/img/avatar.jpg",
+      "screenshot": "",
+      "description": "随缘更新",
+      "note": "是很厉害的 Harry，他在做一些很酷的事。"
+    },
+    {
       "title": "一二",
       "url": "https://onetwo16.github.io/",
       "avatar": "https://weavatar.com/avatar/8740388badd3e34506378c840faa7fcae3d919d99fbd04ca90047111940db2dc",
@@ -24,14 +32,6 @@
       "screenshot": "",
       "description": "星语日点灯",
       "note": "是我的建站首席顾问语佬！（激动）他的博客超级好看！"
-    },
-    {
-      "title": "Harry Chen's Blog",
-      "url": "https://harrychen.xyz",
-      "avatar": "https://harrychen.xyz/assets/static/img/avatar.jpg",
-      "screenshot": "",
-      "description": "随缘更新",
-      "note": "沉静而幽默的书写！很爱看他的生活分享，感觉 Harry 就，很酷！"
     }
   ]
 }
