@@ -9,11 +9,11 @@ body:
       description: 请认真检查以下清单中的每一项，并在相符的项前打勾。
       options:
         - required: true
-          label: 合法的、非营利性、无商业广告、无木马植入。
+          label: 您的坐标能够正常访问.
         - required: false
           label: 近半年至少发布过一篇原创文章。
         - required: false
-          label: 有独立域名，非免费域名。
+          label: 合法、非营利性、无商业广告（有广告的会酌情考虑）
         - required: false
           label: 博客已运行至少半年，非刚搭建好。
         - required: false
